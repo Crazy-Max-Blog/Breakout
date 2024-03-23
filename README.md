@@ -1,4 +1,4 @@
-[![latest](https://img.shields.io/github/v/release/Crazy-Max-Blog/CrazyBreakout.svg?color=brightgreen)](https://codeload.github.com/Crazy-Max-Blog/CrazyBreakout/zip/refs/heads/main)
+[![latest](https://img.shields.io/github/v/release/Crazy-Max-Blog/Breakout.svg?color=brightgreen)](https://codeload.github.com/Crazy-Max-Blog/Breakout/zip/refs/heads/main)
 [![Foo](https://img.shields.io/badge/page-on%20website-blue.svg?style=flat-square)](https://crazymax.is-a.dev/Breakout/)
 [![Foo](https://img.shields.io/badge/page-on%20github-blue.svg?style=flat-square)](https://github.com/Crazy-Max-Blog/Breakout/)
 
