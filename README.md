@@ -6,7 +6,9 @@
 
 # Breakout
 
-![1](https://github.com/Crazy-Max-Blog/Breakout/raw/main/doc/video.mp4)
+<video width="320" height="240" controls>
+  <iframe width="480" height="270" src="https://dzen.ru/embed/vQooEb8cNxzQ?from_block=partner&from=zen&mute=0&autoplay=0&tv=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</video>
 
 ## Компоненты
   1. [ESP32](https://aliexpress.ru/item/1005002354577296.html?sku_id=12000020259652824&spm=a2g2w.productlist.search_results.5.3c25494aLINsft)
