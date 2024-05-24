@@ -6,6 +6,8 @@
 
 # Breakout
 
+![1](https://github.com/Crazy-Max-Blog/Breakout/raw/main/doc/video.mp4)
+
 ## Компоненты
   1. [ESP32](https://aliexpress.ru/item/1005002354577296.html?sku_id=12000020259652824&spm=a2g2w.productlist.search_results.5.3c25494aLINsft)
   2. [Дисплей ILI9341-2.8 TFT RGB 320x240](https://aliexpress.ru/item/1005006216961510.html?spm=a2g2w.orderdetail.0.0.7afd4aa6tVLUdl&sku_id=12000036322238737)
